@@ -1,4 +1,4 @@
-# BOSTON DISRICT 7 INDICATORS
+# Boston District 7 Indicators Project
 
 This repository contains work by two teams focused on different aspects of Boston's District 7. Each team’s efforts are documented in their respective folders, where you can find detailed methodologies, data sources, analysis steps, and deliverables. Please refer to the individual team readme files for comprehensive information.
 
